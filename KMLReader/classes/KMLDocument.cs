@@ -334,7 +334,6 @@ namespace KMLReader
 
     #endregion
 
-
     public class KMLReader
     {
         public static KMLDocument ReadKMLFile(string KMLFile)
